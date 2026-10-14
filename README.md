@@ -22,6 +22,7 @@ Analyzed sales data to explore business performance and present insights through
 Tools: Microsoft Excel
 
 View Project
+https://github.com/EstherOhai/sales-analysis-dashboard
 
 - 2. Customer Segmentation Using RFM Analysis
 
@@ -30,6 +31,7 @@ Explored customer purchasing behaviour using Recency, Frequency, and Monetary an
 Tools: Microsoft Excel, Power Query
 
 View Project
+https://github.com/EstherOhai/Customer-segmentation-rfm-analysis
 
 - 3. Instagram Content Performance Analysis
 
@@ -38,6 +40,7 @@ Analyzed social media content performance to explore engagement patterns and und
 Tools: Microsoft Excel
 
 View Project
+https://github.com/EstherOhai/Instagram-content-performance-analysis
 
 # What I’m Working Toward
 
